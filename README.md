@@ -16,22 +16,22 @@ Program food delivery adalah sebuah sistem atau aplikasi yang memungkinkan pelan
     <tr>
       <td>1</td>
       <td>15220644</td>
-      <td>Syaeiful Rochman</td>
+      <td>Rafi Fulvian</td>
     </tr>
     <tr>
       <td>2</td>
       <td>15220212</td>
-      <td>Rafi Fulvian</td>
+      <td>Silvester Fabian</td>
     </tr>
     <tr>
       <td>3</td>
       <td>15220069</td>
-      <td>Mohammad Fikri Khoiruddin</td>
+      <td>Syaeiful Rochman</td>
     </tr>
     <tr>
       <td>4</td>
       <td>15220032</td>
-      <td>Silvester Fabian</td>
+      <td>Mohammad Fikri Khoiruddin</td>
     </tr>
   </tbody>
 </table>
